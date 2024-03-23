@@ -73,4 +73,4 @@ def analyze_sentiment() -> Dict[str, Union[float, str]]:
  
 if __name__ == '__main__':
     #logging.getLogger().addHandler(Blob)
-    app.run(debug=True, port=80, threaded=True)
+    app.run(debug=True, port=5000, threaded=True)
