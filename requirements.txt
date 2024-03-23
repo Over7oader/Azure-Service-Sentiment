@@ -36,4 +36,5 @@ urllib3==2.2.1
 werkzeug==3.0.1
 youtube-transcript-api==0.6.2
 zipp==3.18.1
-azure-storage-blob
+azure-functions==1.18.0
+azure-storage-blob==12.19.1
